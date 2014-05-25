@@ -1,0 +1,3 @@
+texturedbands 1
+texturedground 1
+startlevel 0
